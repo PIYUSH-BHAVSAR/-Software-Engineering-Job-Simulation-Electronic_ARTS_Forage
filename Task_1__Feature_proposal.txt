@@ -1,0 +1,38 @@
+__PENALTY SHOOTOUT LOBBY__
+
+ Overview :- 
+
+	 As the EA sports college football 25 game includes multiple minigames for players skill improvement . this proposal is for new  	pre-match feature called a penalty shootout lobby before match begins or while searching for an opponent in multiplayer 	matchmaking ,  players will be placed in  2 minute mini game where either take role of shooter or defender this feature is 	inspired from penalty shootout format.
+
+Value Statement :- 
+
+	this pre-match lobby offers player a penalty game format with engaging  experience. allows player to practice  specific skills 	like throwing  accuracy , defensive measures in short time decision conditions . acts as warmup session rather than setting up in 	direct gameplay .
+
+Solution:-  
+
+Game Structure:-
+     
+	While match making in progress players will be placed in lobby for 2 minutes  penalty shootout session.
+
+1.session has 5 rounds and 2 sides to choose from:
+
+	a)Shooting role:- 
+		player will try to shoot goal like wise in penalty.
+	b)Defending role:-
+		player will defend the goal like goal keeper.
+
+2. Matchmaking integration 
+
+	it will start while matchmaking is in progress till the matchmaking is done  or 2 minutes whichever comes first.
+
+3.Leaderboards:-
+  
+	a small leaderboard to show which player has performed best during shootout session
+
+4.Include in practice mode:- 
+
+	this minigame can also be added into practice mode to play  without need of matchmaking.
+
+Evaluation statement:-
+
+	new feature will add an fun and skill development element in game and also reducing waiting times by engaging in game at that time 	additionally , the ability to practice and warmup will help players to be better prepared before match increases in game 	performance and game play of player as it is for short time of 2 minute it remains quick and exciting rather than  distracting 		from main gameplay. in lobby player can improve their reflexes  and in game decision making.
